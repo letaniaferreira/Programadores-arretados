@@ -71,9 +71,9 @@ ________________________________________________________________________________
 
 Material pra encontro do dia 22/08/2021
 
-Capítulo 3/Aula 2 -  https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10
-
 *Frontend & Backend*
+
+Capítulo 3/Aula 2 -  https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10
 
 Perguntas:\
 1- Qual é o nome de dois navegadores?\
