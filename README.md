@@ -2,7 +2,7 @@
 Estrutura de estudos pra HTML e CSS do curso do Gustavo Guanabara
 ____________________________________________________________________
 
-Material de apoio:
+*Material de apoio:*
 
 Playlist completa módulo 1-5: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
