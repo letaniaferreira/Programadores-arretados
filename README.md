@@ -10,13 +10,15 @@ Abertura - https://www.youtube.com/watch?v=jgQjeqGRdgA&list=RDCMUCrWvhVmt0Qac3Hg
 Resumo do que se vai ver no curso e https://www.youtube.com/watch?v=VfIXgGJWLvA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=3
 Mais detalhes do que veremos no curso e do que vc vai precisar
 
-Material de apoio (livros e pdf) - https://www.youtube.com/watch?v=0zLjVhHdOm8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=5
+Material de apoio:
 
-github do Guanabara com pdf e desafios: https://github.com/gustavoguanabara/html-css
+>Livros e pdf: https://www.youtube.com/watch?v=0zLjVhHdOm8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=5
 
-*mdn*: https://developer.mozilla.org/en-US/
+>Github do Guanabara com pdf e desafios: https://github.com/gustavoguanabara/html-css
 
-*W3*: https://www.w3.org/
+>*mdn*: https://developer.mozilla.org/en-US/
+
+>*W3*: https://www.w3.org/
 ____________________________________________________________________________________________________________
 
 **Material pra encontro do dia 27/06/2021**
