@@ -40,9 +40,11 @@ Perguntas:\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 25/07/2021**/
-*Domínio, URL, servidor, cliente*/
-**Material pra encontro do dia 25/07/2021**/
+**Material pra encontro do dia 25/07/2021**
+
+*Domínio, URL, servidor, cliente*
+
+**Material pra encontro do dia 25/07/2021**
 
 (Capítulo 2/Aula 2) https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8
 
