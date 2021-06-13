@@ -2,8 +2,6 @@
 Estrutura de estudos pra HTML e CSS do curso do Gustavo Guanabara
 ____________________________________________________________________
 
-**Material de apoio:**
-
 Playlist completa módulo 1-5: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
 Abertura - https://www.youtube.com/watch?v=jgQjeqGRdgA&list=RDCMUCrWvhVmt0Qac3HgsjQK62FQ&index=6
@@ -38,7 +36,7 @@ Perguntas:
 1- o que significa binário?\
 2- Quantos bits tem em um bite? Qual medida se usa pra transmissão de dados e qual pra armazenamento?\
 3- Quem quer usar o serviço o cliente ou o servidor?\
-4- Onde se guardam or arquivos que as pessoas acessam na internet?
+4- Onde se guardam or arquivos que as pessoas acessam na internet?\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
@@ -47,9 +45,9 @@ Material pra encontro do dia 25/07/2021
 (Capítulo 2/Aula 2) https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8
 
 Perguntas
-1- Explique o que é um domínio.
-2- Onde se faz hospedagem de arquivos?
-3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)
+1- Explique o que é um domínio.\
+2- Onde se faz hospedagem de arquivos?\
+3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)\
 
 __________________________________________________________________________________________________________
 
@@ -59,12 +57,12 @@ Capítulo 3/Aula 1 - https://www.youtube.com/watch?v=B4FU3NFRTDw&list=PLHz_AreHm
 
 Perguntas sobre CSS, HTML and JavaScript:
 
-1- Pra que serve CSS, HTML and JavaScript?
-2- Quais são alguns exemplos de tags? Como as usamos? Pra que servem?
-3- Quais são algumas coisas que vc pode mudar usando CSS? 
-4- O que é um seletor? Em qual das 3 tecnologias os seletores são usados?
-5- Onde você define a língua (inglês, português, holandês) principal do seu site?
-6- O que significa 'head' e 'body' em português? Qual das 3 tecnologias tem essas partes?
+1- Pra que serve CSS, HTML and JavaScript?\
+2- Quais são alguns exemplos de tags? Como as usamos? Pra que servem?\
+3- Quais são algumas coisas que vc pode mudar usando CSS?\
+4- O que é um seletor? Em qual das 3 tecnologias os seletores são usados?\
+5- Onde você define a língua (inglês, português, holandês) principal do seu site?\
+6- O que significa 'head' e 'body' em português? Qual das 3 tecnologias tem essas partes?\
 7- Qual é o nome de um navegador?
 __________________________________________________________________________________________________________
 
@@ -74,13 +72,13 @@ Capítulo 3/Aula 2 -  https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreH
 
 Perguntas Frontend & Backend:
 
-1- Qual é o nome de dois navegadores?
-2- Que tipo de tecnologia entrega material(html, css, JS) pra o cliente? Front-end ou back-end?
-3- Que tipo de tecnologia roda no servidor? Front-end ou back-end?
-4- Parte visual e interativa. Front-end ou back-end?
-5- Python é linguagem de front-end ou back-end?
-6- O banco de dados fica guardado no front-end ou back-end?
-7- O que é um desenvolvedor full stack?
+1- Qual é o nome de dois navegadores?\
+2- Que tipo de tecnologia entrega material(html, css, JS) pra o cliente? Front-end ou back-end?\
+3- Que tipo de tecnologia roda no servidor? Front-end ou back-end?\
+4- Parte visual e interativa. Front-end ou back-end?\
+5- Python é linguagem de front-end ou back-end?\
+6- O banco de dados fica guardado no front-end ou back-end?\
+7- O que é um desenvolvedor full stack?\
 
 Capítulo 4/Aula 1 - https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11
 Instalação de vscode e ferramentas de google chrome
@@ -91,7 +89,7 @@ Material pra encontro do dia 05/09/2021
 Capítulo 4/Aula 2 - https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12
 Primeiro exercício html e CSS
 
-1- Onde vai as configurações do site?
+1- Onde vai as configurações do site?\
 2- Onde vai o conteúdo do site?
 
 Capítulo 5/Aula 1 - https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=13
