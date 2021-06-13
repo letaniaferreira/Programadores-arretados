@@ -118,19 +118,19 @@ ________________________________________________________________________________
 **Material pra encontro do dia 03/10/2021**
 
 Capítulo 7/Aula 1 - https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20
-hierarchia de títulos - tamanho de headings
+(Hierarchia de títulos - tamanho de headings)
 
 Capítulo 8/Aula 1 - https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21
-semântica, coisas obsoletas, forma e significado
+(Semântica, coisas obsoletas, forma e significado)
 
 Capítulo 8/Aula 2 - https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22
-Formatação de textos (negrito, itálico, strong, em)
+(Formatação de textos: negrito, itálico, strong, _em_)
 
 Capítulo 8/Aula 3 - https://www.youtube.com/watch?v=8TgKFYkcO5Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=23
-inline styling, sup, sub (mais baixo e alto), sublinhado, envelopar pra aparecer tooltip
+(Inline styling, sup, sub _mais baixo e alto_, sublinhado, envelopar pra aparecer tooltip)
 
 Capítulo 8/Aula 4 - https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=24
-código fonte, pre-formatação, abreviações, quotation,
+(Código fonte, pre-formatação, abreviações, quotation)
 __________________________________________________________________________________________________________
 
 **Material pra encontro do dia 17/10/2021**
@@ -139,7 +139,7 @@ Capítulo 9/Aula 1 - https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm
 (Listas)
 
 Capítulo 9/Aula 2 - https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26
-Listas mistas e de definição
+(Listas mistas e de definição)
 
 Capítulo 10/Aula 1 - https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27 (Links)
 
@@ -150,7 +150,7 @@ Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreH
 Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (Desafios cap 10)
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 31/10/2021
+**Material pra encontro do dia 31/10/2021**
 
 Capítulo 11/Aula 1 - https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31 (Mídias, audio, video)
 
@@ -170,7 +170,7 @@ Capítulo 11/Aula 7 - https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreH
 
 CSS
 
-Capítulo 12/Aula 1 - https://www.youtube.com/watch?v=byqhpuVpvEI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=38 (o que são as CSS?, estilos inline)
+Capítulo 12/Aula 1 - https://www.youtube.com/watch?v=byqhpuVpvEI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=38 (O que são as CSS?, o que são estilos inline)
 
 Capítulo 12/Aula 2 - https://www.youtube.com/watch?v=fzyab4P2pn8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=39(Estilos internos/estilos locais - same file - <style>)
   
