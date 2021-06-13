@@ -33,14 +33,10 @@ Como funciona a internet:
 (Capítulo 2/Aula 1) https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7 
 
 Perguntas:
-1- o que significa binário?
-
-2- Quantos bits tem em um bite? Qual medida se usa pra transmissão de dados e qual pra armazenamento?
-
-3- Quem quer usar o serviço o cliente ou o servidor?
-
+1- o que significa binário?\
+2- Quantos bits tem em um bite? Qual medida se usa pra transmissão de dados e qual pra armazenamento?\
+3- Quem quer usar o serviço o cliente ou o servidor?\
 4- Onde se guardam or arquivos que as pessoas acessam na internet?
-
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
