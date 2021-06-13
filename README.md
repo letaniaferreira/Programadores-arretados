@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 Material pra encontro do dia 11/07/2021
 
-Como funciona a internet: 
+*Como funciona a internet:* 
 
 (Capítulo 2/Aula 1) https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7 
 
@@ -40,14 +40,16 @@ Perguntas:\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 25/07/2021
+**Material pra encontro do dia 25/07/2021**
+*Domínio, URL, servidor, cliente*
+**Material pra encontro do dia 25/07/2021**
 
 (Capítulo 2/Aula 2) https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8
 
 Perguntas:\
 1- Explique o que é um domínio.\
 2- Onde se faz hospedagem de arquivos?\
-3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)\
+3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)
 
 __________________________________________________________________________________________________________
 
