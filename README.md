@@ -2,13 +2,13 @@
 Estrutura de estudos pra HTML e CSS do curso do Gustavo Guanabara
 ____________________________________________________________________
 
-Playlist completa módulo 1-5: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+*Playlist completa módulo 1-5:* https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
 Abertura - https://www.youtube.com/watch?v=jgQjeqGRdgA&list=RDCMUCrWvhVmt0Qac3HgsjQK62FQ&index=6
 Resumo do que se vai ver no curso e https://www.youtube.com/watch?v=VfIXgGJWLvA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=3
 Mais detalhes do que veremos no curso e do que vc vai precisar
 
-Material de apoio:
+*Material de apoio:*
 
 >Livros e pdf: https://www.youtube.com/watch?v=0zLjVhHdOm8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=5
 
@@ -21,9 +21,9 @@ ________________________________________________________________________________
 
 **Material pra encontro do dia 27/06/2021**
 
-*história da internet:* https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6 
+*História da internet:* https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6 
 
-Teste seus conhecimentos: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf (1, 4, 5)
+*Teste seus conhecimentos:* https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf (1, 4, 5)
 ____________________________________________________________________________________________________________
 
 Material pra encontro do dia 11/07/2021
