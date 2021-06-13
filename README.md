@@ -2,7 +2,7 @@
 Estrutura de estudos pra HTML e CSS do curso do Gustavo Guanabara
 ____________________________________________________________________
 
-*Material de apoio:*
+**Material de apoio:**
 
 Playlist completa módulo 1-5: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
@@ -14,15 +14,14 @@ Material de apoio (livros e pdf) - https://www.youtube.com/watch?v=0zLjVhHdOm8&l
 
 github do Guanabara com pdf e desafios: https://github.com/gustavoguanabara/html-css
 
-mdn: https://developer.mozilla.org/en-US/
+*mdn*: https://developer.mozilla.org/en-US/
 
-W3: https://www.w3.org/
-
-***********************************************************************************************************
+*W3*: https://www.w3.org/
+____________________________________________________________________________________________________________
 
 **Material pra encontro do dia 27/06/2021**
 
-história da internet: https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6 
+*história da internet:* https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6 
 
 Teste seus conhecimentos: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf (1, 4, 5)
 ____________________________________________________________________________________________________________
