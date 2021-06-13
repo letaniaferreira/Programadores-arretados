@@ -142,19 +142,28 @@ Capítulo 9/Aula 2 - https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm
 Listas mistas e de definição
 
 Capítulo 10/Aula 1 - https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27 (Links)
+
 Capítulo 10/Aula 2 - https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28 (mais links)
+
 Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29 (pra download)
+
 Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (desafios cap 10)
 __________________________________________________________________________________________________________
 
 Material pra encontro do dia 31/10/2021
 
 Capítulo 11/Aula 1 - https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31 (midias, audio, video)
+
 Capítulo 11/Aula 2 - https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32 (tamanho de imagens, imagens dinâmicas)
+
 Capítulo 11/Aula 3 - https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33 (inserir audio no site)
+
 Capítulo 11/Aula 4 - https://www.youtube.com/watch?v=DjOSM72cYac&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=34 (eficiência de videos no site)
+
 Capítulo 11/Aula 5 - https://www.youtube.com/watch?v=TCeyIwFGkYo&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=35 (inserir videos no site)
+
 Capítulo 11/Aula 6 - https://www.youtube.com/watch?v=3hng-hmSv2Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=36 ( mais sobre inserir videos no site)
+
 Capítulo 11/Aula 7 - https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37 (desafio)
 
 ******************************************************************************
@@ -162,8 +171,11 @@ Capítulo 11/Aula 7 - https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreH
 CSS
 
 Capítulo 12/Aula 1 - https://www.youtube.com/watch?v=byqhpuVpvEI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=38 (o que são as CSS?, estilos inline)
+
 Capítulo 12/Aula 2 - https://www.youtube.com/watch?v=fzyab4P2pn8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=39(Estilos internos/estilos locais - same file - <style>)
+  
 Capítulo 12/Aula 3 - https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=40(Estilos externos - another file)
+  
 Conclusão do módulo 1 -  https://www.youtube.com/watch?v=xYLizixflv4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=41
   
 Módulo 2 - https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
