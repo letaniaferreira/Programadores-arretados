@@ -32,7 +32,7 @@ Como funciona a internet:
 
 (Capítulo 2/Aula 1) https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7 
 
-Perguntas:
+Perguntas:\
 1- o que significa binário?\
 2- Quantos bits tem em um bite? Qual medida se usa pra transmissão de dados e qual pra armazenamento?\
 3- Quem quer usar o serviço o cliente ou o servidor?\
@@ -44,7 +44,7 @@ Material pra encontro do dia 25/07/2021
 
 (Capítulo 2/Aula 2) https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8
 
-Perguntas
+Perguntas:\
 1- Explique o que é um domínio.\
 2- Onde se faz hospedagem de arquivos?\
 3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)\
@@ -55,8 +55,7 @@ Material pra encontro do dia 08/08/2021
 
 Capítulo 3/Aula 1 - https://www.youtube.com/watch?v=B4FU3NFRTDw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=9
 
-Perguntas sobre CSS, HTML and JavaScript:
-
+Perguntas sobre CSS, HTML and JavaScript:\
 1- Pra que serve CSS, HTML and JavaScript?\
 2- Quais são alguns exemplos de tags? Como as usamos? Pra que servem?\
 3- Quais são algumas coisas que vc pode mudar usando CSS?\
@@ -70,8 +69,7 @@ Material pra encontro do dia 22/08/2021
 
 Capítulo 3/Aula 2 -  https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10
 
-Perguntas Frontend & Backend:
-
+Perguntas Frontend & Backend:\
 1- Qual é o nome de dois navegadores?\
 2- Que tipo de tecnologia entrega material(html, css, JS) pra o cliente? Front-end ou back-end?\
 3- Que tipo de tecnologia roda no servidor? Front-end ou back-end?\
@@ -81,43 +79,43 @@ Perguntas Frontend & Backend:
 7- O que é um desenvolvedor full stack?\
 
 Capítulo 4/Aula 1 - https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11
-Instalação de vscode e ferramentas de google chrome
+(Instalação de vscode e ferramentas de google chrome)
 __________________________________________________________________________________________________________
 
 Material pra encontro do dia 05/09/2021
 
 Capítulo 4/Aula 2 - https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12
-Primeiro exercício html e CSS
+(Primeiro exercício html e CSS)
 
 1- Onde vai as configurações do site?\
 2- Onde vai o conteúdo do site?
 
 Capítulo 5/Aula 1 - https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=13
-Paragráfos e quebra de linhas
+(Paragráfos e quebra de linhas)
 
 Capítulo 5/Aula 2 - Símbolos e emojis https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 19/09/2021 - Imagens
+**Material pra encontro do dia 19/09/2021 - Imagens**
 
 Capítulo 6/Aula 1 - https://www.youtube.com/watch?v=bDULqeGEvAw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=15
-direitos autorais
+(Direitos autorais)
 
 Capítulo 6/Aula 2 - https://www.youtube.com/watch?v=xg-vHgLF0mI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=16
 Gimp, modificações de imagens, tamanho de arquivos, (jpg, png, gifs)
 1- Que imagem tem fundo transparente?
 
 Capítulo 6/Aula 3 - https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17
-mexendo com tamanho de imagens
+(Mexer com tamanho de imagens)
 
 Capítulo 6/Aula 4 - https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18
-colocar imagen no site
+(Colocar imagens no site)
 
 Capítulo 6/Aula 5 - https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=19
-favicon.io
+(Criar favicon.io)
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 03/10/2021
+**Material pra encontro do dia 03/10/2021**
 
 Capítulo 7/Aula 1 - https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20
 hierarchia de títulos - tamanho de headings
@@ -135,38 +133,38 @@ Capítulo 8/Aula 4 - https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm
 código fonte, pre-formatação, abreviações, quotation,
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 17/10/2021
+**Material pra encontro do dia 17/10/2021**
 
 Capítulo 9/Aula 1 - https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=25
-Listas
+(Listas)
 
 Capítulo 9/Aula 2 - https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26
 Listas mistas e de definição
 
 Capítulo 10/Aula 1 - https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27 (Links)
 
-Capítulo 10/Aula 2 - https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28 (mais links)
+Capítulo 10/Aula 2 - https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28 (Mais sobre links)
 
-Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29 (pra download)
+Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29 (Links pra download)
 
-Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (desafios cap 10)
+Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (Desafios cap 10)
 __________________________________________________________________________________________________________
 
 Material pra encontro do dia 31/10/2021
 
-Capítulo 11/Aula 1 - https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31 (midias, audio, video)
+Capítulo 11/Aula 1 - https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31 (Mídias, audio, video)
 
-Capítulo 11/Aula 2 - https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32 (tamanho de imagens, imagens dinâmicas)
+Capítulo 11/Aula 2 - https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32 (Tamanho de imagens, imagens dinâmicas)
 
-Capítulo 11/Aula 3 - https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33 (inserir audio no site)
+Capítulo 11/Aula 3 - https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33 (Inserir audio no site)
 
-Capítulo 11/Aula 4 - https://www.youtube.com/watch?v=DjOSM72cYac&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=34 (eficiência de videos no site)
+Capítulo 11/Aula 4 - https://www.youtube.com/watch?v=DjOSM72cYac&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=34 (Eficiência de videos no site)
 
-Capítulo 11/Aula 5 - https://www.youtube.com/watch?v=TCeyIwFGkYo&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=35 (inserir videos no site)
+Capítulo 11/Aula 5 - https://www.youtube.com/watch?v=TCeyIwFGkYo&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=35 (Inserir videos no site)
 
-Capítulo 11/Aula 6 - https://www.youtube.com/watch?v=3hng-hmSv2Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=36 ( mais sobre inserir videos no site)
+Capítulo 11/Aula 6 - https://www.youtube.com/watch?v=3hng-hmSv2Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=36 (Mais sobre inserir videos no site)
 
-Capítulo 11/Aula 7 - https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37 (desafio)
+Capítulo 11/Aula 7 - https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37 (Desafio)
 
 ******************************************************************************
 
