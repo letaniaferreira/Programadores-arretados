@@ -44,8 +44,6 @@ ________________________________________________________________________________
 
 *Domínio, URL, servidor, cliente*
 
-**Material pra encontro do dia 25/07/2021**
-
 (Capítulo 2/Aula 2) https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8
 
 Perguntas:\
@@ -55,11 +53,13 @@ Perguntas:\
 
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 08/08/2021
+**Material pra encontro do dia 08/08/2021**
+
+*CSS, HTML and JavaScript*
 
 Capítulo 3/Aula 1 - https://www.youtube.com/watch?v=B4FU3NFRTDw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=9
 
-Perguntas sobre CSS, HTML and JavaScript:\
+Perguntas:\
 1- Pra que serve CSS, HTML and JavaScript?\
 2- Quais são alguns exemplos de tags? Como as usamos? Pra que servem?\
 3- Quais são algumas coisas que vc pode mudar usando CSS?\
@@ -73,7 +73,9 @@ Material pra encontro do dia 22/08/2021
 
 Capítulo 3/Aula 2 -  https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10
 
-Perguntas Frontend & Backend:\
+*Frontend & Backend*
+
+Perguntas:\
 1- Qual é o nome de dois navegadores?\
 2- Que tipo de tecnologia entrega material(html, css, JS) pra o cliente? Front-end ou back-end?\
 3- Que tipo de tecnologia roda no servidor? Front-end ou back-end?\
@@ -86,11 +88,13 @@ Capítulo 4/Aula 1 - https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm
 (Instalação de vscode e ferramentas de google chrome)
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 05/09/2021
+**Material pra encontro do dia 05/09/2021**
+
+*Primeiro exercício html e CSS*
 
 Capítulo 4/Aula 2 - https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12
-(Primeiro exercício html e CSS)
 
+Perguntas:/
 1- Onde vai as configurações do site?\
 2- Onde vai o conteúdo do site?
 
@@ -100,13 +104,15 @@ Capítulo 5/Aula 1 - https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm
 Capítulo 5/Aula 2 - Símbolos e emojis https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 19/09/2021 - Imagens**
+**Material pra encontro do dia 19/09/2021**
+
+*Imagens*
 
 Capítulo 6/Aula 1 - https://www.youtube.com/watch?v=bDULqeGEvAw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=15
 (Direitos autorais)
 
 Capítulo 6/Aula 2 - https://www.youtube.com/watch?v=xg-vHgLF0mI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=16
-Gimp, modificações de imagens, tamanho de arquivos, (jpg, png, gifs)
+(Gimp, modificações de imagens, tamanho de arquivos, _jpg, png, gifs_)/
 1- Que imagem tem fundo transparente?
 
 Capítulo 6/Aula 3 - https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17
@@ -120,6 +126,8 @@ Capítulo 6/Aula 5 - https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm
 __________________________________________________________________________________________________________
 
 **Material pra encontro do dia 03/10/2021**
+
+*Formatação*
 
 Capítulo 7/Aula 1 - https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20
 (Hierarchia de títulos - tamanho de headings)
@@ -139,6 +147,8 @@ ________________________________________________________________________________
 
 **Material pra encontro do dia 17/10/2021**
 
+*Criar listas e links*
+
 Capítulo 9/Aula 1 - https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=25
 (Listas)
 
@@ -155,6 +165,8 @@ Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreH
 __________________________________________________________________________________________________________
 
 **Material pra encontro do dia 31/10/2021**
+
+*Inserir mídias*
 
 Capítulo 11/Aula 1 - https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31 (Mídias, audio, video)
 
