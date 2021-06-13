@@ -22,6 +22,7 @@ W3: https://www.w3.org/
 Material pra encontro do dia 27/06/2021
 
 história da internet: https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6 / teste seus conhecimentos: https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf (1, 4, 5)
+____________________________________________________________________________________________________________
 
 Material pra encontro do dia 11/07/2021
 
@@ -35,6 +36,7 @@ Perguntas:
 3- Quem quer usar o serviço o cliente ou o servidor?
 4- Onde se guardam or arquivos que as pessoas acessam na internet?
 5- O que é o ip address? O que é o DNS? (min 15)
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 25/07/2021
 
@@ -45,7 +47,7 @@ Perguntas
 2- Onde se faz hospedagem de arquivos?
 3- O que é uma URL? Diga o nome de 2 partes de uma URL.(min 15)
 
-*******************
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 08/08/2021
 
@@ -60,6 +62,7 @@ Perguntas sobre CSS, HTML and JavaScript:
 5- Onde você define a língua (inglês, português, holandês) principal do seu site?
 6- O que significa 'head' e 'body' em português? Qual das 3 tecnologias tem essas partes?
 7- Qual é o nome de um navegador?
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 22/08/2021
 
@@ -76,7 +79,8 @@ Perguntas Frontend & Backend:
 7- O que é um desenvolvedor full stack?
 
 Capítulo 4/Aula 1 - https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11
-Instalnação de vscode e ferramentas de google chrome
+Instalação de vscode e ferramentas de google chrome
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 05/09/2021
 
@@ -90,6 +94,7 @@ Capítulo 5/Aula 1 - https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm
 Paragráfos e quebra de linhas
 
 Capítulo 5/Aula 2 - Símbolos e emojis https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 19/09/2021 - Imagens
 
@@ -108,6 +113,7 @@ colocar imagen no site
 
 Capítulo 6/Aula 5 - https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=19
 favicon.io
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 03/10/2021
 
@@ -125,6 +131,7 @@ inline styling, sup, sub (mais baixo e alto), sublinhado, envelopar pra aparecer
 
 Capítulo 8/Aula 4 - https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=24
 código fonte, pre-formatação, abreviações, quotation,
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 17/10/2021
 
@@ -138,6 +145,7 @@ Capítulo 10/Aula 1 - https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreH
 Capítulo 10/Aula 2 - https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28 (mais links)
 Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29 (pra download)
 Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (desafios cap 10)
+__________________________________________________________________________________________________________
 
 Material pra encontro do dia 31/10/2021
 
