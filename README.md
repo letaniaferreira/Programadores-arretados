@@ -40,7 +40,7 @@ Perguntas:\
 5- O que é o ip address? O que é o DNS? (min 15)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 25/07/2021**
+**Material pra encontro do dia 08/08/2021**
 
 *Domínio, URL, servidor, cliente*
 
@@ -53,7 +53,7 @@ Perguntas:\
 
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 08/08/2021**
+**Material pra encontro do dia 22/08/2021**
 
 *CSS, HTML and JavaScript*
 
@@ -69,7 +69,7 @@ Perguntas:\
 7- Qual é o nome de um navegador?
 __________________________________________________________________________________________________________
 
-Material pra encontro do dia 22/08/2021
+**Material pra encontro do dia 05/09/2021**
 
 *Frontend & Backend*
 
@@ -88,7 +88,7 @@ Capítulo 4/Aula 1 - https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm
 (Instalação de vscode e ferramentas de google chrome)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 05/09/2021**
+**Material pra encontro do dia 19/09/2021**
 
 *Primeiro exercício html e CSS*
 
@@ -104,7 +104,7 @@ Capítulo 5/Aula 1 - https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm
 Capítulo 5/Aula 2 - Símbolos e emojis https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 19/09/2021**
+**Material pra encontro do dia 03/10/2021**
 
 *Imagens*
 
@@ -125,7 +125,7 @@ Capítulo 6/Aula 5 - https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm
 (Criar favicon.io)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 03/10/2021**
+**Material pra encontro do dia 17/10/2021**
 
 *Formatação*
 
@@ -145,7 +145,7 @@ Capítulo 8/Aula 4 - https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm
 (Código fonte, pre-formatação, abreviações, quotation)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 17/10/2021**
+**Material pra encontro do dia 31/10/2021**
 
 *Criar listas e links*
 
@@ -164,7 +164,7 @@ Capítulo 10/Aula 3 - https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreH
 Capítulo 10/Aula 4 - https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30 (Desafios cap 10)
 __________________________________________________________________________________________________________
 
-**Material pra encontro do dia 31/10/2021**
+**Material pra encontro do dia 14/11/2021**
 
 *Inserir mídias*
 
