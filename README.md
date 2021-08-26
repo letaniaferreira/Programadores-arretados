@@ -198,3 +198,7 @@ Módulo 2 - https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY
   (Cores, fontes, alinhamento)
   seletor - 
   modelo de caixas - https://www.youtube.com/watch?v=3ZFYXkzXhqE (div: box-level, span: inline-level)
+  
+  *****************************************************************************
+  
+  Veja nesse repo um exemplo de como escrever um README: https://github.com/letaniaferreira/methods-to-remember
