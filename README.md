@@ -1,4 +1,4 @@
-# Programadores-arretados
+# Programadores-arretados HTML e CSS
 Estrutura de estudos pra HTML e CSS do curso do Gustavo Guanabara
 ____________________________________________________________________
 
